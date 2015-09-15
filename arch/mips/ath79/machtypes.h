@@ -54,7 +54,8 @@ enum ath79_mach_type {
 	ATH79_MACH_DIR_615_I1,		/* D-Link DIR-615 rev. I1 */
 	ATH79_MACH_DIR_825_B1,		/* D-Link DIR-825 rev. B1 */
 	ATH79_MACH_DIR_825_C1,		/* D-Link DIR-825 rev. C1 */
-	ATH79_MACH_DIR_835_A1,		/* D-Link DIR-835 rev. A1 */
+    ATH79_MACH_DIR_835_A1,		/* D-Link DIR-835 rev. A1 */
+    ATH79_MACH_DOMINO,		/* Domino */
 	ATH79_MACH_DLAN_PRO_500_WP,	/* devolo dLAN pro 500 Wireless+ */
 	ATH79_MACH_DLAN_PRO_1200_AC,	/* devolo dLAN pro 1200+ WiFi ac*/
 	ATH79_MACH_DRAGINO2,		/* Dragino Version 2 */
